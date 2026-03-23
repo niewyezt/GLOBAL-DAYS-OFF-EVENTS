@@ -1,1 +1,1 @@
-# calendar-weeks-privacy
+# GLOBAL DAYS OFF & EVENTS
